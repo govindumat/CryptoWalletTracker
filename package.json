@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "maintain a list of wallet addresses",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/govindumat/CryptoWalletTracker.git"
+  },
+  "author": "govindumat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/govindumat/CryptoWalletTracker/issues"
+  },
+  "homepage": "https://github.com/govindumat/CryptoWalletTracker#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.0"
+  }
+}
